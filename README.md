@@ -1,2 +1,2 @@
 # Capstone1-Resume
-"My Resume" in only HTML  
+"My Resume" is a Capstone project that showcases my resume using only HTML. 
